@@ -1,0 +1,23 @@
+{
+  "name": "deviceplugin",
+  "version": "1.0.0",
+  "description": "this is for getting device details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amongdawiner/deviceplugin.git"
+  },
+  "keywords": [
+    "device",
+    "plugin"
+  ],
+  "author": "Amani Chang'a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amongdawiner/deviceplugin/issues"
+  },
+  "homepage": "https://github.com/amongdawiner/deviceplugin#readme"
+}
